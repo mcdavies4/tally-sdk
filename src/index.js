@@ -1,4 +1,3 @@
-// Tally SDK v0.1.0
 /**
  * Tally Credit Layer API — Official JavaScript SDK
  * @version 0.1.0
