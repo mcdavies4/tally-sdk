@@ -1,5 +1,5 @@
 {
-  "name": "@tally-credits/sdk",
+  "name": "tally-credits-sdk",
   "version": "0.1.0",
   "description": "Official JavaScript SDK for the Tally Credit Layer API",
   "type": "module",
